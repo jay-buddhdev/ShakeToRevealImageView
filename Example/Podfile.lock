@@ -1,0 +1,16 @@
+PODS:
+  - ShakeToRevealImageView (0.1.0)
+
+DEPENDENCIES:
+  - ShakeToRevealImageView (from `../`)
+
+EXTERNAL SOURCES:
+  ShakeToRevealImageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ShakeToRevealImageView: ce6d4415430d6e89dcf6ad9d0ee50288090b79fb
+
+PODFILE CHECKSUM: f609411b54633eaa3b787367cf541c5bb5e8907a
+
+COCOAPODS: 1.15.2
