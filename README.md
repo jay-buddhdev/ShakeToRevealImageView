@@ -116,7 +116,7 @@ Distributed under the MIT license. See [LICENSE] for details.
 
 [Swift Package Manager]:    https://www.swift.org/package-manager
 
-[Swift Package Index]:      https://swiftpackageindex.com/SimformSolutionsPvtLtd/ShakeToRevealImageView
+[Swift Package Index]:      https://swiftpackageindex.com/jay-buddhdev/ShakeToRevealImageView
 
 [CocoaPods]:                https://cocoapods.org/pods/ShakeToRevealImageView
 
