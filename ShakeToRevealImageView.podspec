@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-ShakeToRevealImageView allows developers to easily integrate a shake to reveal gesture for images in their iOS apps. The library offers flexible customization options, including the ability to adjust the overlay color and choose from different haptic feedback styles using UIImpactFeedbackGenerator. Whether you’re building a game, a productivity app, or anything in between, this pod enhances the user experience with an engaging, tactile interaction that’s fully configurable right from the storyboard
+ShakeToRevealImageView lets iOS devs add a shake-to-reveal gesture with customizable overlay color & haptic feedback, all via storyboard
                        DESC
 
   s.homepage         = 'https://github.com/jay-buddhdev/ShakeToRevealImageView'
@@ -32,6 +32,6 @@ ShakeToRevealImageView allows developers to easily integrate a shake to reveal g
   s.ios.deployment_target = '15.0'
   s.swift_version = '5.0'
 
-  s.source_files = '/Sources/**/*'
+  s.source_files = 'Sources/**/*'
 
 end
