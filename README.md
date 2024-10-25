@@ -138,7 +138,7 @@ Distributed under the MIT license. See [LICENSE] for details.
 
 <!-- Badges -->
 
-[Platform Compatibility-badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fjay-buddhdev%2FShakeToRevealImageViews%2Fbadge%3Ftype%3Dplatforms
+[Platform Compatibility-badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fjay-buddhdev%2FShakeToRevealImageView%2Fbadge%3Ftype%3Dplatforms
 
 [Swift Compatibility-badge]:    https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fjay-buddhdev%2FShakeToRevealImageView%2Fbadge%3Ftype%3Dswift-versions
 
